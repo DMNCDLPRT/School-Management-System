@@ -1,2 +1,3 @@
 # School-Management-System
- School Management System - Laravel
+ School Management System using Laravel framework
+ 
